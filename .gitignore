@@ -1,1 +1,5 @@
 setup_api/
+__pycache__/
+.vscode/
+.flaskenv
+requiriments.txt
